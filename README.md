@@ -27,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivoham102&show_icons=true&locale=en" alt="shivoham102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivoham102&" alt="shivoham102" /></p>
+
+<div align="center">
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivoham102&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
