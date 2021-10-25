@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivoham102" alt="shivoham102" /></a> </p>
 
-- 🔭 I’m currently working on a **Discord Quiz Bot**
+- 🔭 I’m currently contributing to open source at **CDLI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivoham102](https://github.com/Shivoham102)
 
